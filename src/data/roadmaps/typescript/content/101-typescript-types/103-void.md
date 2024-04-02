@@ -14,3 +14,6 @@ In JavaScript, a function that doesn’t return any value will implicitly return
 Learn more from the following links:
 
 - [void - TypeScript Docs](https://www.typescriptlang.org/docs/handbook/2/functions.html#void)
+#### Example
+   - A doorbell rings and makes a sound, but doesn't return any information when pressed.
+   - Car Horn: Honking a car horn doesn't return any information, it simply produces a sound to alert others.
